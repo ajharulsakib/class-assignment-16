@@ -1,0 +1,64 @@
+/* menu section */
+nav{
+    background-color: #101446;
+    height: 50px;
+}
+.logo img{
+    max-width: 50px;
+}
+nav ul{
+    margin-bottom: 0;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 13px 25px;
+    
+}
+/* banner section */
+.banner{
+    background-image: url(../images/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+.banner .row h2{
+    margin-top: 250px;
+    margin-bottom: 30px;
+
+}
+.banner .row button{
+    margin-bottom: 150px;
+}
+/* teem section */
+.teem{
+    background-color: #bac1f3;
+    height: 700px;
+}
+.teem .row{
+    
+}
+.teem .row h1{
+    /* display: inline-block; */
+
+}
+.teem .member{
+    margin-top: 50px;
+    
+
+}
+.teem .member img{
+    max-width: 100%;
+
+}
+/* about section */
+.about{
+    background-color: #c2d4ea;
+}
+/* footer section */
+footer{
+    background-color: #0062d3;
+}
